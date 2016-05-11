@@ -5,7 +5,7 @@ This projects aims to realize a filesystem including a file tagging system. This
 
 A tag is a keyword used to categorize a file. A file can be associated to multiple tags and a tag can be shared through multiple files.
 
-This project is developed with **FUSE**, **QueueBSD** and **UT-HASH**. The first one helps with file system mounting, the others with file and tag management.
+This project is developed with [FUSE][], [UT-HASH][] and [UT-LIST][]. The first one helps with file system mounting, the others with file and tag management.
 
 ## Code Example
 
@@ -52,7 +52,7 @@ This is a possible execution:
 
 ## Motivation
 
-This project is part of the *fourth year* of *computer science engineering* program at *Bordeaux Graduate School of Engineering*, also known as *ENSEIRB-MATMECA*.  
+This project is part of the *fourth year* of *computer science engineering* program at *Bordeaux Graduate School of Engineering*, also known as [ENSEIRB-MATMECA][]*.  
 It is meant to give the students an overview of how a file system works and its inherent constraints regarding the performances needed for it to work in extreme conditions, such as large amounts of tags and files.
 
 ## Installation
@@ -68,12 +68,19 @@ Same as before, except that the command to compile the tests is **make test**.
 ## Contributors
 
 The team of students behind this project is exclusively composed of developers:
-- Bastien *Coeuret*;
-- Mohammed *Rihani*;
-- Maxence *Ronzié*;
-- Vincenzo *Scalzi*;
-- Eya *Weslati*.
+- Bastien *COEURET* - Bastien.Coeuret@enseirb-matmeca.fr
+- [Mohammed RIHANI][] - Mohammed.Rihani@enseirb-matmeca.fr
+- Maxence *RONZIÉ* - Maxence.Ronzie@enseirb-matmeca.fr
+- Vincenzo *SCALZI* - Vincenzo.Scalzi@enseirb-matmeca.fr
+- Eya *WESLATI* - Eya.Weslati@enseirb-matmeca.fr
 
 ## License
 
-No license for this project, yet!
+This project is licensed under the GNU LGPL, Version 3.0. See LICENSE for full license text.
+
+[FUSE]: https://github.com/libfuse/libfuse
+[UT-HASH]: https://troydhanson.github.io/uthash/userguide.html
+[UT-LIST]: https://troydhanson.github.io/uthash/utlist.html
+[ENSEIRB-MATMECA]: http://www.enseirb-matmeca.fr
+[Bordeaux-INP]: https://www.bordeaux-inp.fr/
+[Mohammed RIHANI]: http://mrihani.vvv.enseirb-matmeca.fr
