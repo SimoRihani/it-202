@@ -1,0 +1,27 @@
+
+
+Starting in /net/malt/i/vscalzi/WORK/i2/it-201/it202-2031/tst-perf/images
+tagfs_getattr
+getattr returning No such file or directory
+tagfs_getattr
+getattr returning No such file or directory
+tagfs_getattr
+getattr returning Success
+tagfs_readdir
+
+Starting in /net/malt/i/vscalzi/WORK/i2/it-201/it202-2031/tst-perf/images
+Stopped with return code 1
+Old DB saved in: /net/malt/i/vscalzi/WORK/i2/it-201/it202-2031/tst-perf/images/.tags.bak
+New DB saved in: /net/malt/i/vscalzi/WORK/i2/it-201/it202-2031/tst-perf/images/.tags
+
+
+Starting in /net/malt/i/vscalzi/WORK/i2/it-201/it202-2031/tst-perf/images
+Stopped with return code 1
+Old DB saved in: /net/malt/i/vscalzi/WORK/i2/it-201/it202-2031/tst-perf/images/.tags.bak
+New DB saved in: /net/malt/i/vscalzi/WORK/i2/it-201/it202-2031/tst-perf/images/.tags
+
+
+Starting in /net/malt/i/vscalzi/WORK/i2/it-201/it202-2031/tst-perf/images
+tagfs_getattr
+getattr returning Success
+tagfs_readdir

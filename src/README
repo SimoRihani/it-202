@@ -1,0 +1,35 @@
+                ┌────────────────────────────────────────┐
+                │              Database OS               │
+                ├────────────────────────────────────────┤
+                │                                        │
+                │           Projet OS / Semestre 8       │
+                │              ENSEIRB-MATMECA           │
+                │     ~bcoeuret, ~mrihani, ~mronzie,     │
+                │           ~vscalzi, ~eweslati          │
+                │                                        │
+                └────────────────────────────────────────┘
+
+
+
+                            │ Utilisation │
+                            └─────────────┘
+
+### COMPILATION ###
+
+> Pour compiler la base de données :
+
+$make cleanall && make
+
+
+### MODE D'EMPLOI ###
+
+> Pour lancer l'interface de la base de données (Database debug) :
+
+$./db
+
+> Pour lancer les tests unitaires des opérations sur la base de données,
+il faut lancer (dans le repertoire de tst/) la commande :
+
+make cleanall && make test
+
+Cela genere un main (avec ./maingenerator) et execute les tests.
