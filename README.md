@@ -81,7 +81,7 @@ The team of students behind this project is exclusively composed of developers:
 - Bastien *COEURET* - Bastien.Coeuret@enseirb-matmeca.fr
 - [Mohammed RIHANI][] - Mohammed.Rihani@enseirb-matmeca.fr
 - Maxence *RONZIÉ* - Maxence.Ronzie@enseirb-matmeca.fr
-- Vincenzo *SCALZI* - Vincenzo.Scalzi@enseirb-matmeca.fr
+- [Vincenzo SCALZI][] - Vincenzo.Scalzi@enseirb-matmeca.fr
 - Eya *WESLATI* - Eya.Weslati@enseirb-matmeca.fr
 
 
@@ -91,3 +91,4 @@ The team of students behind this project is exclusively composed of developers:
 [ENSEIRB-MATMECA]: http://www.enseirb-matmeca.fr
 [Bordeaux-INP]: https://www.bordeaux-inp.fr/
 [Mohammed RIHANI]: http://mrihani.vvv.enseirb-matmeca.fr
+[Vincenzo SCALZI]: http://vcz.fr/
