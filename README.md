@@ -65,6 +65,15 @@ Once the necessary resources are downloaded, use **make** to build the project. 
 
 Same as before, except that the command to compile the tests is **make test**.
 
+## Useful links
+
+- Repport : http://mrihani.vvv.enseirb-matmeca.fr/donnee/OS_Rapport.pdf
+- Presentation : http://mrihani.vvv.enseirb-matmeca.fr/donnee/OS_Presentation.pdf
+
+## License
+
+This project is licensed under the GNU LGPL, Version 3.0. See LICENSE for full license text.
+
 ## Contributors
 
 The team of students behind this project is exclusively composed of developers:
@@ -74,9 +83,6 @@ The team of students behind this project is exclusively composed of developers:
 - Vincenzo *SCALZI* - Vincenzo.Scalzi@enseirb-matmeca.fr
 - Eya *WESLATI* - Eya.Weslati@enseirb-matmeca.fr
 
-## License
-
-This project is licensed under the GNU LGPL, Version 3.0. See LICENSE for full license text.
 
 [FUSE]: https://github.com/libfuse/libfuse
 [UT-HASH]: https://troydhanson.github.io/uthash/userguide.html
