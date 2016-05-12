@@ -67,6 +67,7 @@ Same as before, except that the command to compile the tests is **make test**.
 
 ## Useful links
 
+- Project description : http://people.bordeaux.inria.fr/goglin/teaching/ProjetSysteme/tagfs/index.xhtml
 - Repport : http://mrihani.vvv.enseirb-matmeca.fr/donnee/OS_Rapport.pdf
 - Presentation : http://mrihani.vvv.enseirb-matmeca.fr/donnee/OS_Presentation.pdf
 
